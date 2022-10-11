@@ -4,7 +4,7 @@ import requests
 import snowflake.connector
 from urllib.error import URLError
 
-streamlit.title("Jeff's Kitchen")
+streamlit.title("Mom's Kitchen")
 
 streamlit.header('Breakfast Healthy Options')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
